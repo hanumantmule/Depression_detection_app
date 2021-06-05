@@ -1,0 +1,403 @@
+Train Epoch:  2	 Learning rate: 0.0005	 Loss: 6.222528
+
+Test set: Average loss: 5.2454 	 MAE: 5.7352
+
+Train Epoch:  3	 Learning rate: 0.0005	 Loss: 4.801173
+
+Test set: Average loss: 5.5409 	 MAE: 6.0273
+
+Train Epoch:  4	 Learning rate: 0.0005	 Loss: 4.431237
+
+Test set: Average loss: 5.2539 	 MAE: 5.7438
+
+Train Epoch:  5	 Learning rate: 0.0005	 Loss: 4.382258
+
+Test set: Average loss: 5.3497 	 MAE: 5.8280
+
+Train Epoch:  6	 Learning rate: 0.0005	 Loss: 4.518691
+
+Test set: Average loss: 5.4297 	 MAE: 5.9101
+
+Train Epoch:  7	 Learning rate: 0.0005	 Loss: 4.425840
+
+Test set: Average loss: 5.3102 	 MAE: 5.7929
+
+Train Epoch:  8	 Learning rate: 0.0005	 Loss: 4.562018
+
+Test set: Average loss: 5.0805 	 MAE: 5.5750
+
+Train Epoch:  9	 Learning rate: 0.0005	 Loss: 4.654327
+
+Test set: Average loss: 5.2846 	 MAE: 5.7715
+
+Train Epoch: 10	 Learning rate: 0.0005	 Loss: 4.565650
+
+Test set: Average loss: 5.2604 	 MAE: 5.7470
+
+Train Epoch: 11	 Learning rate: 0.0005	 Loss: 4.451685
+
+Test set: Average loss: 5.2530 	 MAE: 5.7409
+
+Train Epoch: 12	 Learning rate: 0.0005	 Loss: 4.512582
+
+Test set: Average loss: 5.1506 	 MAE: 5.6465
+
+Train Epoch: 13	 Learning rate: 0.0005	 Loss: 4.443742
+
+Test set: Average loss: 5.1558 	 MAE: 5.6496
+
+Train Epoch: 14	 Learning rate: 0.0005	 Loss: 4.298081
+
+Test set: Average loss: 4.8663 	 MAE: 5.3347
+
+Train Epoch: 15	 Learning rate: 0.0005	 Loss: 3.788248
+
+Test set: Average loss: 4.2885 	 MAE: 4.7878
+
+Train Epoch: 16	 Learning rate: 0.0005	 Loss: 3.246390
+
+Test set: Average loss: 4.1861 	 MAE: 4.6585
+
+Train Epoch: 17	 Learning rate: 0.0005	 Loss: 4.021637
+
+Test set: Average loss: 3.8039 	 MAE: 4.2900
+
+Train Epoch: 18	 Learning rate: 0.0005	 Loss: 3.298809
+
+Test set: Average loss: 3.8797 	 MAE: 4.3641
+
+Train Epoch: 19	 Learning rate: 0.0005	 Loss: 2.909718
+
+Test set: Average loss: 3.6439 	 MAE: 4.1346
+
+Train Epoch: 20	 Learning rate: 0.0005	 Loss: 2.991214
+
+Test set: Average loss: 3.5464 	 MAE: 4.0234
+
+Train Epoch: 21	 Learning rate: 0.0005	 Loss: 2.892707
+
+Test set: Average loss: 3.1266 	 MAE: 3.5861
+
+Train Epoch: 22	 Learning rate: 0.0005	 Loss: 2.806894
+
+Test set: Average loss: 3.3687 	 MAE: 3.8398
+
+Train Epoch: 23	 Learning rate: 0.0005	 Loss: 2.462016
+
+Test set: Average loss: 3.2983 	 MAE: 3.7604
+
+Train Epoch: 24	 Learning rate: 0.0005	 Loss: 2.452944
+
+Test set: Average loss: 3.7188 	 MAE: 4.2055
+
+Train Epoch: 25	 Learning rate: 0.0005	 Loss: 2.329042
+
+Test set: Average loss: 3.4484 	 MAE: 3.8869
+
+Train Epoch: 26	 Learning rate: 0.0005	 Loss: 2.495918
+
+Test set: Average loss: 3.8797 	 MAE: 4.3500
+
+Train Epoch: 27	 Learning rate: 0.0005	 Loss: 2.272594
+
+Test set: Average loss: 3.8090 	 MAE: 4.2980
+
+Train Epoch: 28	 Learning rate: 0.0005	 Loss: 2.619707
+
+Test set: Average loss: 3.6732 	 MAE: 4.1515
+
+Train Epoch: 29	 Learning rate: 0.0005	 Loss: 2.312229
+
+Test set: Average loss: 3.6419 	 MAE: 4.1090
+
+Train Epoch: 30	 Learning rate: 0.0005	 Loss: 2.056890
+
+Test set: Average loss: 4.1940 	 MAE: 4.6646
+
+Train Epoch: 31	 Learning rate: 0.0005	 Loss: 2.042540
+
+Test set: Average loss: 3.8574 	 MAE: 4.3044
+
+Train Epoch: 32	 Learning rate: 0.0005	 Loss: 2.110537
+
+Test set: Average loss: 3.8590 	 MAE: 4.3267
+
+Train Epoch: 33	 Learning rate: 0.0005	 Loss: 2.181078
+
+Test set: Average loss: 4.0800 	 MAE: 4.5380
+
+Train Epoch: 34	 Learning rate: 0.0005	 Loss: 1.838920
+
+Test set: Average loss: 3.6816 	 MAE: 4.1475
+
+Saved as BiLSTM_reg_128_4.15.pt
+****************************************************************
+model saved: f1: 4.147465705871582	acc: 1.8389204747620083
+****************************************************************
+Train Epoch: 35	 Learning rate: 0.0005	 Loss: 1.695412
+
+Test set: Average loss: 4.4402 	 MAE: 4.9363
+
+Train Epoch: 36	 Learning rate: 0.0005	 Loss: 2.076556
+
+Test set: Average loss: 4.0873 	 MAE: 4.5635
+
+Train Epoch: 37	 Learning rate: 0.0005	 Loss: 1.879723
+
+Test set: Average loss: 4.5997 	 MAE: 5.0551
+
+Train Epoch: 38	 Learning rate: 0.0005	 Loss: 1.973436
+
+Test set: Average loss: 4.1427 	 MAE: 4.6181
+
+Train Epoch: 39	 Learning rate: 0.0005	 Loss: 1.913318
+
+Test set: Average loss: 4.1102 	 MAE: 4.5848
+
+Train Epoch: 40	 Learning rate: 0.0005	 Loss: 1.856847
+
+Test set: Average loss: 4.1139 	 MAE: 4.5657
+
+Train Epoch: 41	 Learning rate: 0.0005	 Loss: 1.771701
+
+Test set: Average loss: 3.9007 	 MAE: 4.3717
+
+Train Epoch: 42	 Learning rate: 0.0005	 Loss: 1.764812
+
+Test set: Average loss: 3.7831 	 MAE: 4.2577
+
+Train Epoch: 43	 Learning rate: 0.0005	 Loss: 1.636393
+
+Test set: Average loss: 3.9092 	 MAE: 4.3770
+
+Train Epoch: 44	 Learning rate: 0.0005	 Loss: 1.874798
+
+Test set: Average loss: 4.0795 	 MAE: 4.5496
+
+Train Epoch: 45	 Learning rate: 0.0005	 Loss: 1.580698
+
+Test set: Average loss: 4.1065 	 MAE: 4.5840
+
+Train Epoch: 46	 Learning rate: 0.0005	 Loss: 1.548155
+
+Test set: Average loss: 4.0280 	 MAE: 4.5011
+
+Train Epoch: 47	 Learning rate: 0.0005	 Loss: 1.400702
+
+Test set: Average loss: 4.2299 	 MAE: 4.6754
+
+Train Epoch: 48	 Learning rate: 0.0005	 Loss: 1.549356
+
+Test set: Average loss: 4.5074 	 MAE: 4.9787
+
+Train Epoch: 49	 Learning rate: 0.0005	 Loss: 1.574735
+
+Test set: Average loss: 4.5332 	 MAE: 4.9923
+
+Train Epoch: 50	 Learning rate: 0.0005	 Loss: 1.354524
+
+Test set: Average loss: 4.7064 	 MAE: 5.1539
+
+Train Epoch: 51	 Learning rate: 0.0005	 Loss: 2.049156
+
+Test set: Average loss: 4.1546 	 MAE: 4.6241
+
+Train Epoch: 52	 Learning rate: 0.0005	 Loss: 1.527975
+
+Test set: Average loss: 4.0918 	 MAE: 4.5543
+
+Train Epoch: 53	 Learning rate: 0.0005	 Loss: 1.346940
+
+Test set: Average loss: 4.0010 	 MAE: 4.4820
+
+Train Epoch: 54	 Learning rate: 0.0005	 Loss: 1.353701
+
+Test set: Average loss: 4.3962 	 MAE: 4.8609
+
+Train Epoch: 55	 Learning rate: 0.0005	 Loss: 1.306012
+
+Test set: Average loss: 4.2128 	 MAE: 4.6894
+
+Train Epoch: 56	 Learning rate: 0.0005	 Loss: 1.371004
+
+Test set: Average loss: 4.1537 	 MAE: 4.6346
+
+Train Epoch: 57	 Learning rate: 0.0005	 Loss: 1.368044
+
+Test set: Average loss: 4.2551 	 MAE: 4.7531
+
+Train Epoch: 58	 Learning rate: 0.0005	 Loss: 1.447491
+
+Test set: Average loss: 4.0097 	 MAE: 4.4771
+
+Train Epoch: 59	 Learning rate: 0.0005	 Loss: 1.247104
+
+Test set: Average loss: 3.9311 	 MAE: 4.4053
+
+Train Epoch: 60	 Learning rate: 0.0005	 Loss: 1.315407
+
+Test set: Average loss: 4.3192 	 MAE: 4.7980
+
+Train Epoch: 61	 Learning rate: 0.0005	 Loss: 1.247827
+
+Test set: Average loss: 4.2105 	 MAE: 4.6818
+
+Train Epoch: 62	 Learning rate: 0.0005	 Loss: 1.415605
+
+Test set: Average loss: 4.3634 	 MAE: 4.8293
+
+Train Epoch: 63	 Learning rate: 0.0005	 Loss: 1.222708
+
+Test set: Average loss: 4.5952 	 MAE: 5.0836
+
+Train Epoch: 64	 Learning rate: 0.0005	 Loss: 1.311415
+
+Test set: Average loss: 4.2124 	 MAE: 4.6954
+
+Train Epoch: 65	 Learning rate: 0.0005	 Loss: 1.487544
+
+Test set: Average loss: 4.0394 	 MAE: 4.4944
+
+Train Epoch: 66	 Learning rate: 0.0005	 Loss: 1.071867
+
+Test set: Average loss: 3.9212 	 MAE: 4.3847
+
+Train Epoch: 67	 Learning rate: 0.0005	 Loss: 1.151054
+
+Test set: Average loss: 4.4762 	 MAE: 4.9519
+
+Train Epoch: 68	 Learning rate: 0.0005	 Loss: 1.309198
+
+Test set: Average loss: 4.4172 	 MAE: 4.8880
+
+Train Epoch: 69	 Learning rate: 0.0005	 Loss: 1.121209
+
+Test set: Average loss: 4.4038 	 MAE: 4.8850
+
+Train Epoch: 70	 Learning rate: 0.0005	 Loss: 1.122766
+
+Test set: Average loss: 3.9661 	 MAE: 4.4481
+
+Train Epoch: 71	 Learning rate: 0.0005	 Loss: 1.306642
+
+Test set: Average loss: 4.0182 	 MAE: 4.4837
+
+Train Epoch: 72	 Learning rate: 0.0005	 Loss: 1.271639
+
+Test set: Average loss: 4.3392 	 MAE: 4.7997
+
+Train Epoch: 73	 Learning rate: 0.0005	 Loss: 1.111040
+
+Test set: Average loss: 4.1592 	 MAE: 4.6452
+
+Train Epoch: 74	 Learning rate: 0.0005	 Loss: 1.092647
+
+Test set: Average loss: 4.5354 	 MAE: 5.0171
+
+Train Epoch: 75	 Learning rate: 0.0005	 Loss: 1.071747
+
+Test set: Average loss: 4.2062 	 MAE: 4.6748
+
+Train Epoch: 76	 Learning rate: 0.0005	 Loss: 1.139450
+
+Test set: Average loss: 3.7759 	 MAE: 4.2505
+
+Train Epoch: 77	 Learning rate: 0.0005	 Loss: 1.193882
+
+Test set: Average loss: 3.6220 	 MAE: 4.0822
+
+Saved as BiLSTM_reg_128_4.08.pt
+****************************************************************
+model saved: f1: 4.082216739654541	acc: 1.1938817671367101
+****************************************************************
+Train Epoch: 78	 Learning rate: 0.0005	 Loss: 1.062055
+
+Test set: Average loss: 3.9293 	 MAE: 4.4046
+
+Train Epoch: 79	 Learning rate: 0.0005	 Loss: 1.161488
+
+Test set: Average loss: 4.0311 	 MAE: 4.4819
+
+Train Epoch: 80	 Learning rate: 0.0005	 Loss: 1.155397
+
+Test set: Average loss: 4.4762 	 MAE: 4.9510
+
+Train Epoch: 81	 Learning rate: 0.0005	 Loss: 1.124911
+
+Test set: Average loss: 3.9555 	 MAE: 4.4218
+
+Train Epoch: 82	 Learning rate: 0.0005	 Loss: 1.087112
+
+Test set: Average loss: 3.9758 	 MAE: 4.4648
+
+Train Epoch: 83	 Learning rate: 0.0005	 Loss: 1.143451
+
+Test set: Average loss: 4.1492 	 MAE: 4.6386
+
+Train Epoch: 84	 Learning rate: 0.0005	 Loss: 1.021506
+
+Test set: Average loss: 4.2033 	 MAE: 4.6706
+
+Train Epoch: 85	 Learning rate: 0.0005	 Loss: 1.397525
+
+Test set: Average loss: 4.3981 	 MAE: 4.8657
+
+Train Epoch: 86	 Learning rate: 0.0005	 Loss: 0.968711
+
+Test set: Average loss: 3.7188 	 MAE: 4.2074
+
+Train Epoch: 87	 Learning rate: 0.0005	 Loss: 1.095073
+
+Test set: Average loss: 3.9837 	 MAE: 4.4526
+
+Train Epoch: 88	 Learning rate: 0.0005	 Loss: 1.061223
+
+Test set: Average loss: 4.3055 	 MAE: 4.7557
+
+Train Epoch: 89	 Learning rate: 0.0005	 Loss: 0.967244
+
+Test set: Average loss: 3.9507 	 MAE: 4.4074
+
+Train Epoch: 90	 Learning rate: 0.0005	 Loss: 1.116576
+
+Test set: Average loss: 4.2355 	 MAE: 4.7020
+
+Train Epoch: 91	 Learning rate: 0.0005	 Loss: 1.129589
+
+Test set: Average loss: 4.2573 	 MAE: 4.7175
+
+Train Epoch: 92	 Learning rate: 0.0005	 Loss: 0.998689
+
+Test set: Average loss: 4.2436 	 MAE: 4.7121
+
+Train Epoch: 93	 Learning rate: 0.0005	 Loss: 1.028936
+
+Test set: Average loss: 4.2015 	 MAE: 4.6581
+
+Train Epoch: 94	 Learning rate: 0.0005	 Loss: 1.025468
+
+Test set: Average loss: 4.2462 	 MAE: 4.6956
+
+Train Epoch: 95	 Learning rate: 0.0005	 Loss: 0.973014
+
+Test set: Average loss: 3.9069 	 MAE: 4.3618
+
+Train Epoch: 96	 Learning rate: 0.0005	 Loss: 0.917344
+
+Test set: Average loss: 4.2787 	 MAE: 4.7302
+
+Train Epoch: 97	 Learning rate: 0.0005	 Loss: 1.120929
+
+Test set: Average loss: 4.3165 	 MAE: 4.7986
+
+Train Epoch: 98	 Learning rate: 0.0005	 Loss: 0.962194
+
+Test set: Average loss: 3.8568 	 MAE: 4.3219
+
+Train Epoch: 99	 Learning rate: 0.0005	 Loss: 1.249937
+
+Test set: Average loss: 4.0346 	 MAE: 4.4936
+
+Train Epoch: 100	 Learning rate: 0.0005	 Loss: 1.070985
+
+Test set: Average loss: 4.2920 	 MAE: 4.7649
