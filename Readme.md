@@ -54,7 +54,7 @@ We have divided this application into **two** activities:
 ## Steps involved in web application setup
 1. Copy the fusion model saved in above step 5, inside the 'data' folder.
 2. Import the ```Web App``` code folder into the IDEs like ```pycharm and IntelliJ```.
-3. Open the ```App``` folder and run the 'app.py' file.
+3. Open the ```App``` folder and run the ```app.py``` file.
 
 ## How to use ?
 
@@ -65,7 +65,7 @@ This is snapshot of the home page of the application.
 
 **Steps to use the web application.**
 
-1. Launch the web application by running the ```app.py``` file
+1. Launch the web application by running the ```app.py``` file.
 3. Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in the browser.
 4. Select the audio and transcript file of the interview.
 5. Click the submit button. 
